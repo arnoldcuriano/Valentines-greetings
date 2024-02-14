@@ -1,0 +1,22 @@
+body{
+    background-image: url(./HeatBG.jpeg);
+}
+
+.container{
+    justify-content: center;
+}
+
+
+h1, p, i {
+    font-family: Poppins;
+    color: #DC071B
+}
+
+.container {
+    text-align: center;
+}
+
+.text {
+    margin-top: 10px; 
+    text-decoration: center;
+}
